@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhineya</h1>
 <h3 align="center">I am a highly motivated and goal-oriented Flutter developer with a solid background. As a Flutter developer, I've tried creating beautiful applications using dart. I've worked on an application that got selected for the Grand Finale of the Smart India Hackathon. I am familiar with concepts like multiscreen navigation, API integration, etc, and currently learning Provider State Management in Flutter. Along with Dart, I am also familiar with languages like Java and C++. I am also learning backend development. I am focused and dedicated and I am willing to learn.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhineya" alt="abhineya" /></a> </p>
-
 - 🔭 I’m currently working on [Chat App](https://github.com/Abhineya/ChatApp)
 
 - 🌱 I’m currently learning **Firebase, Provider StateManagement**
