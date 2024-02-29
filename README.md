@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhineya</h1>
-<h3 align="start">I am a GDSC LEAD of 2023-2024 batch, a BETA Microsoft Learn Student Ambassador, MLSC BSIOTR Lead, Smart India Hackathon Finalist and currently pursuing Computer Engineering from JSPM's BSIOTR, Pune. I am a highly motivated and goal-oriented Flutter developer with a solid background. I am currently working as a Flutter developer Intern at Codeammy. 
+<h3 align="start">I am a GDSC LEAD of 2023-2024 batch, a Gold Microsoft Learn Student Ambassador, MLSC BSIOTR Lead, Smart India Hackathon Finalist and currently pursuing Computer Engineering from JSPM's BSIOTR, Pune. I am a highly motivated and goal-oriented Flutter developer with a solid background. I am currently working as a Flutter developer Intern at Codeammy. 
   As a Flutter developer, I've tried creating beautiful applications using dart. Along with Dart, I am also familiar with languages like Java, C++, JavaScript and OOP. I am focused and dedicated and I am willing to learn.</h3>
 
 - 🔭 I’m currently working on [Daily-Expense-Tracker](https://github.com/Abhineya/To-Do-App)
